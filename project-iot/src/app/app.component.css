@@ -1,0 +1,33 @@
+.routerBody {
+    min-height: calc(100vh - 15vh);
+}
+.button {
+    background: transparent;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    outline: 0;
+    color: #eae1e1;
+}
+
+.activebutton {
+    border-radius: 6px;
+    border: 1px solid;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    outline: 0;
+}
+
+footer {
+    height: 100px;
+}
